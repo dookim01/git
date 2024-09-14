@@ -1,4 +1,4 @@
 print('br1')
-print('br1')
 
-print('br1')
+print('main')
+print('main')
