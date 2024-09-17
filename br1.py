@@ -4,3 +4,4 @@ print('main')
 print('main')
 
 print('pull2')
+print('pull')
